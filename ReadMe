@@ -1,0 +1,5 @@
+To use these files: 
+
+1.) Create a directory on your computer and stick al files into them
+2.) If on Windows 10 you will need to navigate into region settings and either change locale, or check the checkbox for beta utf-8 encoding
+3.) Run python script, depending on how you run it you may need to change the font of the command interface to one that supports Kanji characters
