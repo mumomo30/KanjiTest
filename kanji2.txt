@@ -1,0 +1,113 @@
+数,かず,number/count
+多,おおい,many/much
+少,すくーない　すこし,a few,a little
+万,よろず,ten thousand
+半,なかば,half
+形,かたち,shape
+太,ふとい,thick
+細,ほそい,thin
+広,ひろい,wide
+長,ながい,long/leader
+点,ぼち,point
+丸,まる,circle
+交,まじわる,intersect
+光,ひかり,light
+角,かど　つの　すみ,corner/horn
+計,はかる,measure
+直,ただち　なおす,straight/fix
+線,すじ,line
+矢,や,arrow
+弱,よわい,weak
+強,つよい,strong
+高,たかい,high/expensive
+同,おなじ,same
+親,おや,parent
+母,はは　かあ,mother
+父,ちち　とう,father
+姉,あね,older sister
+兄,あに,older brother
+弟,おとおと,younger brother
+妹,いもおと,younger sister
+自,みずから,oneself
+友,とも,friend
+体,からだ,body
+毛,け,hair
+頭,あたま,head
+顔,かお,face
+首,くび,neck
+心,こころ,heart
+時,とき,time
+曜,よお,weekday
+朝,あさ,morning
+昼,ひる,daytime
+夜,よる,nighttime/evening/night
+分,わかる　わかります,understand/to understand/minute
+週,しゅう,week
+春,はる,spring/spring time
+夏,なつ,summer
+秋,あき,autumn/fall time
+冬,ふゆ,winter/winter time
+今,いま,now
+新,あたらしい,new
+古,ふるい,old/old object
+間,ま　あいだ,interval/between
+方,かた,direction
+北,きた,north
+南,みなみ,south
+東,ひがし,east
+西,にし,west
+遠,とおい,far
+近,ちかい,near
+前,まえ,before/infront/infront of
+後,のち　うしろ　あと,after/behind
+内,うち,inside/home/inside house
+外,そと ほか　はずす,outside
+場,ば,place
+地,ち　じ,ground
+国,くに,country
+園,その,garder
+谷,たに,valley
+野,の,field
+原,はら,meadow
+里,さと,hometown
+市,いち,city
+京,みやこ,capitol
+風,かぜ,wind/-like
+雪,ゆき,snow
+曇,くも,cloud
+池,いけ,pond
+海,うみ,umi
+岩,いわ,rock
+星,ほし,star
+室,むろ,room
+戸,と　べ　どあ,door
+家,いえ,house
+寺,てら,buddhist temple/temple
+通,とおる,pass through
+門,かど,gates
+道,みち,road
+話,はなし　はなす,talk/to talk/speak/to speak
+言,こと いう,say
+答,こたえる,answer
+声,こえ,voice
+聞,きく,hear/to hear
+語,かたる,language
+読,よむ　よみます,read/to read
+書,かく　かきます,write/to write
+記,しるす,to record/record
+紙,かみ,paper
+画,が,brush stroke
+絵,かい　え,picture
+図,はかる,drawing
+工,こお　く,craft
+教,おしえる　おしえます,to teach/teach
+晴,はれ,clear
+思,おもう,think/to think
+考,かんがえる,consider
+知,しる,know
+才,わずかに　ざえ,ability
+理,ことわり,reason
+算,さｎ,calculate
+
+
+

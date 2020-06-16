@@ -1,0 +1,80 @@
+一,いち,one/1
+二,に,two/2
+三,さｎ,three/3
+四,よｎ　し,four/4
+五,ご,five/5
+六,ろく,six/6
+七,なな　しち,seven/7
+八,はち,eight/8
+九,きゅう,nine/9
+十,じゅう,ten/10
+百,ひゃくう,hundred/100
+千,せｎ,thousand/1000
+年,とし,year
+左,ひだり,left
+右,みぎ,right
+上,うえ,top/above/on top
+下,した,bottom/under/below
+中,なか,middle/inside
+大,おおきい,big
+小,ちいさい,small
+早,はやい,fast/early
+月,つき,moon
+日,ひ,day/sun
+木,き,tree
+林,はやし,forest
+山,やま,mountain
+川,かま,river
+土,つち,Soil
+空,そら　あーく　から,Sky
+田,だ　た,Rice field
+天,あめ　あま,Heaven/Sky
+生,いーきる　うーむ　なま,life/ginuine/birth
+花,はな,flower
+草,くさ,grass
+虫,むし,insect
+犬,いぬ,dog
+人,ひと,person
+名,な　なまえ,name
+女,おんあの,female
+男,おとこ,male
+子,こども　こ,child
+目,め,eye
+耳,みみ,ear
+口,くち,mouth
+手,て,hand
+足,あし,foot
+見,みる　みます,see/to see
+音,ね　おと,sound
+力,ちから,power
+気,いき,spirit/air
+円,まる,circle/yen
+入,はいる　はいります,enter/to enter
+出,でる　でいます,exit/go out/to go out/to exit
+立,たつ,stand up/stand/to stand/to stand up
+休,やすーむ やすみます,rest/to rest
+先,さき,previous
+夕,ゆう,evening
+本,ほｎ　もと,book
+文,もｎ　ふみ,text
+字,あざ,character
+学,まなーぶ,study
+校,がっこお,school
+村,むら,village
+町,まち,town
+森,もり,forest
+正,ただーしい まさ,correct
+水,みず,water
+火,ひ,fire
+玉,たま,ball
+王,きみ,king
+石,いし,stone
+竹,たけ,bamboo
+糸,いと,thread
+貝,かい,shellfish
+車,くるま,car/vehicle
+金,かね,money
+雨,あめ,rain
+赤,あかい,red
+青,あおい,blue
+白,しろい,white
