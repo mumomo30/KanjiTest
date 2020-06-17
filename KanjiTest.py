@@ -38,11 +38,16 @@ def genorder(minval,maxval):
 
 
 #Here will be a function to open file and read its contents into an array for us to make things look neater below
-def GetData(filen):
+def GetData(filen,useLen,numK):
 
 	data=[]
 	with open(filen, 'r', encoding="utf-8") as f:
-		data = f.readlines()
+		if useLen==1:
+			data = f.readlines()
+		else :                                          #In case we dont want to do all kanji at once! I should also make function to go between range of kanji huh? 
+			for i in range(0,int(numK)+1):
+				data.append(f.readline())
+			
 		f.close()
 
 	return data
@@ -101,14 +106,18 @@ def Grade(cor,tot):
 	
 	return 0
 
+#A function to search for the Kanji by typing in english word??? through all files?? 
+def FindKanji(englishWord):
 
+	return 0;    #Zero if we found it ig
+
+#END said function
 
 
 
 #Start infinite loop to loop through and alow user to choose options
 while True:
 	
-	print("right now only option 1 works!!!!!!!!!!!")
 	print("what do you want to do? 0 to do study mode, 1=random test for one grade, 2=test on all available kanji, 3=test up to certain grade ")
 	answr=input()
 
@@ -120,7 +129,7 @@ while True:
 	
 		while True:
 		
-			print("Enter the grade you want to test upon ")	#Get grade from user so we know what file to open
+			print("Enter the grade you want to study upon ")	#Get grade from user so we know what file to open
 			grade=input()
 			#Init some variables to good start values 
 			filen="./kanji"+grade+".txt"                        #Get our filename to open the correct grade 
@@ -131,14 +140,20 @@ while True:
 			correct=0
 			wrong=0
 			total=0
+			uselen=0
 			#Done initing, too bad we cant make a function for this like in C.... Prob can though im just too lazy 
 			
+			print("how many of the Kanji do you want to study? Enter all for all of them")
+			numkanji=input()
+						
 			print("Ok im going to open file now.")
 			print("enter 0 at any time to stop. Remember to write out Kanji so you get good at writing too!\n\n\n")
 			
+			if numkanji.lower()=="all":
+				uselen=1
 			#Open file, get data, close file, populate data list
-			data=GetData(filen)
-
+			data=GetData(filen,uselen,numkanji)
+			
 			#Magic loop to print out lines for you
 			for i in range(0,len(data)-1):
 			
@@ -181,7 +196,7 @@ while True:
 			print("Ok im going to open file now. when you see a kanji, type in the english word for it then press enter")
 			print("enter 0 at any time to stop and get your stats! i will allow you to do retries later, im too lazy rn tho....\n\n\n")
 			
-			data=GetData(filen)                                  #Open file and get data
+			data=GetData(filen,1,0)                                  #Open file and get data
 			genorder(0,len(data)-1)                              #Generate a random sequence to print kanji
 			
 			for i in order:
