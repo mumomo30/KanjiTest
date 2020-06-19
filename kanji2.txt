@@ -108,6 +108,27 @@
 才,わずかに　ざえ,ability
 理,ことわり,reason
 算,さｎ,calculate
+作,つくる,make/to make
+元,もと,origin
+食,たべる　くう,eat/to eat
+肉,にく,meat
+馬,うま　ま,horse
+牛,うし,cow
+魚,さかな　うお,fish
+鳥,とり,bird
+羽,はね,feather
+鳴,なく　めい,chirp
+麦,むぎ,wheat
+米,こめ,rice
+茶,ちゃ おちゃ,tea
+色,いろ,color/colour
+黄,きいろい　き,yellow
+黒,くろい　くろ,black
+来,くる,come/to come
+行,いく　ゆく　おこなう,go/to go
+帰,かえる　かえります,return/to return
+歩,あるく　あるきます,to walk/walk
+走,はしる　はしります,to run/run
 
 
 
